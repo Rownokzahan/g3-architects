@@ -14,7 +14,7 @@ body {
 }
 
 section {
-    margin: 50px 5%;
+    margin: 80px 5%;
 }
 
 .sect-title {
@@ -313,7 +313,7 @@ nav {
 /* ------------------Footer--------------------- */
 
 footer {
-    margin: 10% 5%;
+    margin: 10% 5% 5%;
     padding: 30px;
     background-color: rgba(255, 144, 14, 0.1);
     color: #424242;
